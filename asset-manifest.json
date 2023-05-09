@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.43e4f601.js",
+    "main.css": "/static/css/main.20faef51.css",
+    "main.js": "/static/js/main.cc58a782.js",
     "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
+    "static/media/chatbot.jpg": "/static/media/chatbot.df2d12735e93eaf6096a.jpg",
+    "static/media/switch_witch_icon.png": "/static/media/switch_witch_icon.7819b37cf1dd3a809fbb.png",
+    "static/media/social_media_chatbot.jpg": "/static/media/social_media_chatbot.a92abb456e4461e003dc.jpg",
+    "static/media/avatar.png": "/static/media/avatar.eab51b5dc3e0b5ee5800.png",
+    "static/media/resume_mark.png": "/static/media/resume_mark.48727356c4c3365d6f8d.png",
+    "static/media/linkedin_mark.png": "/static/media/linkedin_mark.032cf8a63be2f0f4d425.png",
+    "static/media/email_mark.png": "/static/media/email_mark.35762fdc203cc35c8a3e.png",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.43e4f601.js.map": "/static/js/main.43e4f601.js.map",
+    "main.20faef51.css.map": "/static/css/main.20faef51.css.map",
+    "main.cc58a782.js.map": "/static/js/main.cc58a782.js.map",
     "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.43e4f601.js"
+    "static/css/main.20faef51.css",
+    "static/js/main.cc58a782.js"
   ]
 }
