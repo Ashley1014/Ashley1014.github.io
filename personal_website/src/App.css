@@ -28,6 +28,63 @@
   color: #61dafb;
 }
 
+nav {
+  position: sticky;
+  top: 0
+}
+
+header ul {
+  margin-top: 0;
+  background-color: #28231d;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  line-height: 100px;
+}
+
+header li {
+  flex-grow: 1;
+  font-weight: bold;
+  color: #F1F1EF;
+  font-size: 20pt;
+}
+
+header li:hover {
+  text-decoration: underline;
+}
+
+
+.headline {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.avatar {
+  width: 300px;
+  padding-bottom: 0;
+  margin: 50px auto 0;
+}
+
+.bodytext {
+  width: 500px;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 155%;
+  margin-bottom: 5%;
+}
+
+.h1 {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.section {
+  margin-bottom: 200px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
